@@ -7,7 +7,7 @@ My name is Jay Rodriguez and I'm a Software Developer/DevOps Engineer. My dream 
 
 You can learn more about me through my personal-site [jmr-devops.com][1], connect with me on [LinkedIn][2], follow my [Instagram][3], and email me at jay.rodriguez@hey.com.
 
-## 🔧 Technologies & Tools
+## 🔧 Tools & Technologies
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
