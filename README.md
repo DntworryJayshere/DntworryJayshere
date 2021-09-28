@@ -13,13 +13,9 @@
 
 [![Header](https://raw.githubusercontent.com/DntworryJayshere/DntworryJayshere/readme_header.png "Header")](https://jmr-devops.com/)
 
-# Hello <img src="https://raw.githubusercontent.com/DntworryJayshere/DntworryJayshere/main/wave.gif" width="30px">
+# Hi! <img src="https://raw.githubusercontent.com/DntworryJayshere/DntworryJayshere/main/wave.gif" width="30px">
 
-My name is Jay Rodriguez and I'm a Software Developer/DevOps Engineer. I'm from Philadelphia, living in New Orleans and currently persuing my dream job. You can find me on LinkedIn [Here][1].
-
-## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on my website at [jmr-devops.com](https://jmr-devops.com/) as well as on [Medium](https://medium.com/@dntworryjayshere).
+My name is Jay Rodriguez and I'm a Software Developer/DevOps Engineer. My dream is to help awesome people build awesome things! I have been grinding for the past 4 years to build up my skillset to where it is today, and it's only a matter of time before the right company scoops me up. You can learn more about me on my personal-site [jmr-devops.com][1], connect with me on [LinkedIn][2], follow me on [Instagram][3], and email me at jay.rodriguez@hey.com.
 
 ## 🔧 Technologies & Tools
 
@@ -56,7 +52,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <!-- links to your social media accounts -->
 
-[1]: https://www.linkedin.com/in/jay-m-rodriguez/
+[1]: https://jmr-devops.com/
+[2]: https://www.linkedin.com/in/jay-m-rodriguez/
+[3]: https://www.instagram.com/jr_livsnjutare/
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
