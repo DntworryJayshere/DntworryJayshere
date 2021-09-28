@@ -13,7 +13,7 @@
 
 [![Header](https://raw.githubusercontent.com/DntworryJayshere/DntworryJayshere/readme_header.png "Header")](https://jmr-devops.com/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/DntworryJayshere/DntworryJayshere/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/DntworryJayshere/DntworryJayshere/main/wave.gif" width="30px">
 
 My name is Jay Rodriguez and I'm a software developer/DevOps engineer. I'm from Philadelphia, living in New Orleans and currently persuing my dream job. You can find me on [![LinkedIn]][1].
 
