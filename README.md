@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,15 +11,15 @@
 
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://raw.githubusercontent.com/DntworryJayshere/DntworryJayshere/master/readme_header.png "Header")](https://jmr-devops.com/)
+[![Header](https://raw.githubusercontent.com/DntworryJayshere/DntworryJayshere/readme_header.png "Header")](https://jmr-devops.com/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/DntworryJayshere/DntworryJayshere/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/DntworryJayshere/DntworryJayshere/wave.gif" width="30px">
 
-My name is Jay Rodriguez and I'm a software developer/DevOps engineer. I'm from Philadelphia, living in New Orleans and currently persuing my dream job. You can find me on [![LinkedIn][1]].
+My name is Jay Rodriguez and I'm a software developer/DevOps engineer. I'm from Philadelphia, living in New Orleans and currently persuing my dream job. You can find me on [![LinkedIn]][1].
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [DntworryJayshere.dev](https://DntworryJayshere.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/DntworryJayshere).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [jmr-devops.com](https://jmr-devops.com/) as well as on [Medium](https://medium.com/@dntworryjayshere).
 
 ## 🔧 Technologies & Tools
 
@@ -48,17 +46,13 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DntworryJayshere&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jay's GitHub Stats" />
 </a>
 
-<a href="https://github.com/DntworryJayshere/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DntworryJayshere&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/DntworryJayshere/ticketing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DntworryJayshere&repo=ticketing&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/DntworryJayshere/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DntworryJayshere&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/DntworryJayshere/jay-and-co">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DntworryJayshere&repo=jay-and-co&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
-<!-- icons without padding -->
-
-[1]: https://raw.githubusercontent.com/DntworryJayshere/DntworryJayshere/master/linkedin.png "LinkedIn icon without padding"
 
 <!-- links to your social media accounts -->
 
