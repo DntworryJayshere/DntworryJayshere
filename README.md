@@ -43,7 +43,7 @@ You can learn more about me through my personal-site [jmr-devops.com][1], connec
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DntworryJayshere&repo=ticketing&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/DntworryJayshere/jay-and-co">
+<a href="https://github.com/DntworryJayshere/jay-co">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DntworryJayshere&repo=jay-and-co&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
