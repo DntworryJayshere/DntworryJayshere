@@ -3,9 +3,9 @@ More info, tips and tricks for making GitHub Profile README can be found in HIS 
 
 # Hi! <img src="https://raw.githubusercontent.com/DntworryJayshere/DntworryJayshere/main/wave.gif" width="30px">
 
-My name is Jay Rodriguez and I'm a Software Developer/DevOps Engineer. My dream is to help awesome people build awesome things! I have been grinding for the past 4 years to build up my skillset to where it is today, and it's only a matter of time before the right company scoops me up.
+My name is Jay Rodriguez and I'm a Software Developer/DevOps Engineer. My dream is to help awesome people build awesome things. I have been grinding for the past 5 years to build up my skillset to where it is today, and I dont plan on slowing down anytime soon!
 
-You can learn more about me through my personal-site [jmr-devops.com][1], connect with me on [LinkedIn][2], follow my [Instagram][3], and email me at jay.rodriguez@hey.com.
+You can learn more about me through my personal-site [jay-rodriguez.cloud][1], connect with me on [LinkedIn][2], follow my [Instagram][3], and email me at jay.rodriguez@hey.com.
 
 ## 🔧 Tools & Technologies
 
@@ -49,7 +49,7 @@ You can learn more about me through my personal-site [jmr-devops.com][1], connec
 
 <!-- links to your social media accounts -->
 
-[1]: https://jmr-devops.com/
+[1]: https://www.jay-rodriguez.cloud/
 [2]: https://www.linkedin.com/in/jay-m-rodriguez/
 [3]: https://www.instagram.com/jr_livsnjutare/
 
